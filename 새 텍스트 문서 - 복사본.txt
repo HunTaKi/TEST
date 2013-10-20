@@ -1,5 +1,0 @@
-https://github.com/HunTaKi/TEST.git
-
-git@github.com:HunTaKi/TEST.git
-
-https://github.com/HunTaKi/TEST
